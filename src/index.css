@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans;
+  }
+}
+
+@layer components {
+  .beach-card {
+    @apply bg-white rounded-xl shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg;
+  }
+
+  .safety-badge {
+    @apply px-3 py-1 text-sm font-medium rounded-full inline-flex items-center;
+  }
+  
+  .safety-badge-green {
+    @apply safety-badge bg-green-100 text-green-800;
+  }
+  
+  .safety-badge-yellow {
+    @apply safety-badge bg-yellow-100 text-yellow-800;
+  }
+  
+  .safety-badge-red {
+    @apply safety-badge bg-red-100 text-red-800;
+  }
+
+  .search-input {
+    @apply w-full px-4 py-2 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-primary-400 focus:border-transparent transition-all;
+  }
+}
