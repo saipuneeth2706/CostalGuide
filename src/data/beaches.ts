@@ -24,7 +24,7 @@ export const beaches: Beach[] = [
       state: 'Andaman',
     },
     description: 'Often rated as one of Asia\'s best beaches, featuring pristine white sands and turquoise waters surrounded by lush forest. The beach offers some of the best sunset views in India and is known for its crystal-clear waters perfect for swimming.',
-    imageUrl: 'https://images.pexels.com/photos/1046411/pexels-photo-1046411.jpeg',
+    imageUrl: 'https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg',
     coordinates: {
       lat: 11.9810,
       lon: 92.9526,
