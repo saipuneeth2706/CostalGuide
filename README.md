@@ -22,7 +22,7 @@ Coastal weather can be unpredictable. A sunny day can turn stormy in a matter of
 * **⚡ Real-Time Weather Data:** Get live, up-to-the-minute weather information, including temperature, humidity, wind speed, and atmospheric conditions for various Indian beaches.
 * **🔓 Instant & Open Access:** We believe safety information should be free and easy to access. That's why CoastalGuide requires **no user authentication or login**. Just visit the site and get the weather instantly.
 * **💨 Fluid & Engaging UI:** The user interface is enhanced with subtle animations powered by **GSAP**, creating a smooth and enjoyable Browse experience.
-* **🎨 Modern & ResponsiveDesign:** Built from the ground up with **Tailwind CSS**, the application looks and works great on any device, whether you're on a desktop computer, tablet, or smartphone.
+* **🎨 Modern & Responsive Design:** Built from the ground up with **Tailwind CSS**, the application looks and works great on any device, whether you're on a desktop computer, tablet, or smartphone.
 
 ---
 
