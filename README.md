@@ -48,14 +48,14 @@ Here’s a sneak peek into the CoastalGuide web experience.
 
 <br>
 
-<img src="./res/web1.png" width="300" height="auto">
+<img src="./res/web1.png" width="600" height="auto">
 <p align="center">
     <em>The clean, welcoming, and intuitive home page.</em>
 </p>
 
 <br>
 
-<img src="./res/web2.png" width="300" height="auto">
+<img src="./res/web2.png" width="600" height="auto">
 <p align="center">
     <em>Detailed, real-time weather information for a selected beach location.</em>
 </p>
