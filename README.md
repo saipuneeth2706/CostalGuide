@@ -33,6 +33,7 @@ For the best mobile experience, we highly recommend our dedicated Android app. G
 <br>
 
 ![Android App](./res/mobile.png)
+<img src="./res/mobile.png" width="300" height="auto">
 
 <br>
 
