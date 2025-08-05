@@ -29,11 +29,9 @@ Coastal weather can be unpredictable. A sunny day can turn stormy in a matter of
 ## 📲 Android App Available!
 
 For the best mobile experience, we highly recommend our dedicated Android app. Get all the features of CoastalGuide optimized for your phone, with the convenience of an app icon right on your home screen.
-
 <br>
 <img src="./res/mobile.png" width="300" height="auto">
 <br>
-
 ### How to Install:
 
 1.  Navigate to the **[Releases Section](https://github.com/saipuneeth2706/CostalGuide/releases)** of this GitHub repository.
