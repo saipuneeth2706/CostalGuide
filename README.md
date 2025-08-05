@@ -31,10 +31,7 @@ Coastal weather can be unpredictable. A sunny day can turn stormy in a matter of
 For the best mobile experience, we highly recommend our dedicated Android app. Get all the features of CoastalGuide optimized for your phone, with the convenience of an app icon right on your home screen.
 
 <br>
-
-![Android App](./res/mobile.png)
 <img src="./res/mobile.png" width="300" height="auto">
-
 <br>
 
 ### How to Install:
@@ -50,19 +47,15 @@ For the best mobile experience, we highly recommend our dedicated Android app. G
 Here’s a sneak peek into the CoastalGuide web experience.
 
 <br>
-
-_**[❗️PLACEHOLDER: Add your landing page screenshot here.]**_
-_To add an image, use the markdown: `![Landing Page](path/to/your/screenshot.png)`_
 <p align="center">
-  <em>The clean, welcoming, and intuitive home page.</em>
+    <img src="./res/web1.png" width="300" height="auto">
+    <em>The clean, welcoming, and intuitive home page.</em>
 </p>
 
 <br>
-
-_**[❗️PLACEHOLDER: Add your weather display screenshot here.]**_
-_To add an image, use the markdown: `![Weather Display](path/to/your/screenshot.png)`_
 <p align="center">
-  <em>Detailed, real-time weather information for a selected beach location.</em>
+    <img src="./res/web2.png" width="300" height="auto">
+    <em>Detailed, real-time weather information for a selected beach location.</em>
 </p>
 
 ---
