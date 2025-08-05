@@ -26,7 +26,7 @@ function App() {
             <div className="container mx-auto max-w-7xl">
               <div className="flex flex-col md:flex-row justify-between items-center">
                 <p className="text-sm mb-4 md:mb-0">
-                  © {new Date().getFullYear()} India Beach Safety Monitor
+                  © {new Date().getFullYear()} India Beach Safety Monito
                 </p>
                 <p className="text-sm text-gray-400">
                   Weather data powered by OpenWeatherMap
