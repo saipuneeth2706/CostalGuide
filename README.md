@@ -43,28 +43,6 @@ _To add an image, use the markdown: `![Android App](path/to/your/screenshot.png)
 2.  Download the latest `.apk` file.
 3.  Open the file on your Android device and follow the on-screen instructions to install. (You may need to "allow installation from unknown sources" in your device settings).
 
- ---
-
-### 📸 Application Screenshots
-
-Here’s a sneak peek into the CoastalGuide web experience.
-
-<br>
-
-_**[❗️PLACEHOLDER: Add your landing page screenshot here.]**_
-_To add an image, use the markdown: `![Landing Page](path/to/your/screenshot.png)`_
-<p align="center">
-  <em>The clean, welcoming, and intuitive home page.</em>
-</p>
-
-<br>
-
-_**[❗️PLACEHOLDER: Add your weather display screenshot here.]**_
-_To add an image, use the markdown: `![Weather Display](path/to/your/screenshot.png)`_
-<p align="center">
-  <em>Detailed, real-time weather information for a selected beach location.</em>
-</p>
-
 ---
 
 ### 📸 Application Screenshots
