@@ -32,8 +32,7 @@ For the best mobile experience, we highly recommend our dedicated Android app. G
 
 <br>
 
-_**[❗️PLACEHOLDER: Add a screenshot of the Android app here.]**_
-_To add an image, use the markdown: `![Android App](./res/mobile.png)`_
+![Android App](./res/mobile.png)
 
 <br>
 
